@@ -4,10 +4,6 @@
 - 📫 You can reach me via [email](mailto:mrbrasildaniel@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/carlos-daniel-brasil).  
 
 
-## Linguagens mais usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbrz23&layout=compact&theme=tokyonight" width="500">
-
 <!---
 danielbrz23/danielbrz23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
